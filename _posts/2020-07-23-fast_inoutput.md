@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2020-07-23T02:00:00-05:00
 ---
 
-#### C++
+##### C++
 
 ```c++
 #include <iostream>
@@ -30,7 +30,7 @@ int main() {
 
 ---
 
-#### **JAVA**
+##### **JAVA**
 
 ```java
 import java.io.IOException;
