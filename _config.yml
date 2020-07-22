@@ -27,7 +27,7 @@ repository               : "blackbeaver37/blackbeaver37.github.io" # GitHub user
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # 타이틀 옆에 작게 들어갈 이미지.
 masthead_title           : "정리 노트" # 홈페이지 최 상단에 들어갈 타이틀
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
