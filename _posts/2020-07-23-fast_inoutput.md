@@ -3,9 +3,12 @@ title:  "C++/JAVA/Python 빠른 입출력"
 excerpt: ""
 date: 2020-07-23 02:00:00 -0400
 categories:
-  - "Tips", "In/Output"
+  - Tips
+  - In/Output
 tags:
-  - C++, JAVA,  Python
+  - C++
+  - JAVA
+  - Python
 last_modified_at: 2020-07-23T02:00:00-05:00
 ---
 
