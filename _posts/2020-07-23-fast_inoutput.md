@@ -28,6 +28,7 @@ int main() {
 
 ### **`JAVA`**
 ```java
+import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.BufferedWriter;
