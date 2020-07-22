@@ -22,12 +22,12 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "YoonSoo Kim"
 description              : "기록하기위해 만든 노트"
 url                      : "https://blackbeaver37.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/main" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "blackbeaver37/blackbeaver37.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # 타이틀 옆에 작게 들어갈 이미지.
 masthead_title           : "정리 노트" # 홈페이지 최 상단에 들어갈 타이틀
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
