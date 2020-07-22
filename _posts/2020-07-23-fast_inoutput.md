@@ -11,7 +11,9 @@ tags:
 last_modified_at: 2020-07-23T03:17:00-05:00
 ---
 
-C++
+---
+
+### C++
 
 ```c++
 #include <iostream>
@@ -30,7 +32,9 @@ int main() {
 
 ---
 
-`JAVA`
+---
+
+#### JAVA
 
 ```java
 import java.io.IOException;
@@ -57,6 +61,8 @@ class Main {
 
 ---
 
+---
+
 ## Python
 
 ```python
@@ -71,3 +77,5 @@ for line in sys.stdin:
 
 + `sys.stdin.readline()`은 스페이스 및 개행을 포함하여 한줄씩 받는다.
 + `sys.stdin`을 사용하면 한번에 받을 수 있다.
+
+---
