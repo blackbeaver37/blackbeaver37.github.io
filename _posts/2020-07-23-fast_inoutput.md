@@ -8,10 +8,10 @@ tags:
   - C++
   - JAVA
   - Python
-last_modified_at: 2020-07-23T02:00:00-05:00
+last_modified_at: 2020-07-23T03:17:00-05:00
 ---
 
-##### C++
+## C++
 
 ```c++
 #include <iostream>
@@ -26,11 +26,11 @@ int main() {
 }
 ```
 
-`ios::sync_with_stdio(false)` 후에는 scanf/printf/puts/getchar/putchar 등 사용 불가
++ `ios::sync_with_stdio(false)` 후에는 scanf/printf/puts/getchar/putchar 등 사용 불가
 
 ---
 
-##### JAVA
+## JAVA
 
 ```java
 import java.io.IOException;
@@ -57,7 +57,7 @@ class Main {
 
 ---
 
-##### Python
+## Python
 
 ```python
 import sys
