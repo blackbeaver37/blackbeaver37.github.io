@@ -26,11 +26,11 @@ int main() {
 }
 ```
 
-+ `ios::sync_with_stdio(false)` 후에는 scanf/printf/puts/getchar/putchar 등 사용 불가
+`ios::sync_with_stdio(false)` 후에는 scanf/printf/puts/getchar/putchar 등 사용 불가
 
 ---
 
-##### **JAVA**
+##### JAVA
 
 ```java
 import java.io.IOException;
@@ -57,7 +57,7 @@ class Main {
 
 ---
 
-## **Python**
+##### Python
 
 ```python
 import sys
