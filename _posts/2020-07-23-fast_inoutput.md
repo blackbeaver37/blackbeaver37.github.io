@@ -4,7 +4,6 @@ excerpt: ""
 date: 2020-07-23 02:00:00 -0400
 categories:
   - Tips
-  - In/Output
 tags:
   - C++
   - JAVA
