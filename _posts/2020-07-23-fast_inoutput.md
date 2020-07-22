@@ -12,7 +12,6 @@ last_modified_at: 2020-07-23T02:00:00-05:00
 ---
 
 ## **C++**
-#####
 ```c++
 #include <iostream>
 
@@ -49,7 +48,6 @@ class Main {
     }
 }
 ```
-#####
 + `BufferedReader`는 개행("\n")만 구분자로 인식, 데이터형 String으로 고정
 + `BufferedWriter.flush()`는 버퍼에 남아있는 데이터를 출력
 
