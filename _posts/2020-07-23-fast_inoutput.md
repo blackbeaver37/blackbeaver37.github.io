@@ -12,21 +12,21 @@ tags:
 last_modified_at: 2020-07-23T02:00:00-05:00
 ---
 
-##### `C++`
+### `C++`
 ```
 cin.tie(NULL)
 ios::sync_with_stdio(false)
 단, scanf/printf/puts/getchar/putchar 등 사용 불가.
 ```
 
-##### `JAVA`
+### `JAVA`
 ```
 BufferedReader
 BufferedWriter
 BufferedWriter.flush (마지막)
 ```
 
-##### `Python`
+### `Python`
 ```
 sys.stdin.readline
 개행문자도 받기 때문에 .rstrip() 추가로 사용.
