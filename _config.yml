@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YoonSoo Kim"
 description              : "기록하기위해 만든 노트"
-url                      : "https://blackbeaver37.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://blackbeaver37.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/main" # the subpath of your site, e.g. "/blog"
 repository               : "blackbeaver37/blackbeaver37.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # 타이틀 옆에 작게 들어갈 이미지.
@@ -113,10 +113,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/blackbeaver37/"
+      url: "https://github.com/blackbeaver37"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/y_yoonths/"
+      url: "https://www.instagram.com/y_yoonths"
 
 # Site Footer
 #footer:
