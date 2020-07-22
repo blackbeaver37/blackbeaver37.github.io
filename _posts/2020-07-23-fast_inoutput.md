@@ -24,7 +24,7 @@ int main() {
   return 0;
 }
 ```
-### + `ios::sync_with_stdio(false)`후에는 scanf/printf/puts/getchar/putchar 등 사용 불가
++ `ios::sync_with_stdio(false)`후에는 scanf/printf/puts/getchar/putchar 등 사용 불가
 
 ---
 
@@ -48,8 +48,8 @@ class Main {
     }
 }
 ```
-#### + `BufferedReader`는 개행("\n")만 구분자로 인식, 데이터형 String으로 고정
-##### + `BufferedWriter.flush()`는 버퍼에 남아있는 데이터를 출력
+#####+ `BufferedReader`는 개행("\n")만 구분자로 인식, 데이터형 String으로 고정
++##### `BufferedWriter.flush()`는 버퍼에 남아있는 데이터를 출력
 
 ---
 
