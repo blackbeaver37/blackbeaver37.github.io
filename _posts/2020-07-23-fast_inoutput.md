@@ -1,12 +1,13 @@
 ---
 title: C++/JAVA/Python 빠른 입출력
-date: '2020-07-23 02:00:00 -0400'
+date: July 23, 2020
 categories:
   - Tips
 tags:
   - C++
   - JAVA
   - Python
+
 ---
 
 ---
