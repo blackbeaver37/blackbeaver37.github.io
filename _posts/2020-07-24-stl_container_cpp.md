@@ -52,9 +52,9 @@ last_modified_at: 2020-07-24T04:00:00-05:00
 
     v.push_back(value);
     v.insert(iterator, size, value);
-    v.insert(iterator, first_iterator, last_iterator);
+    v.insert(iterator, begin_iterator, end_iterator);
     // iterator 위치에 해당 원소 및 범위 삽입
-    // last_iterator의 값은 삽입되지 않는다.
+    // end_iterator의 값은 삽입되지 않는다.
     // 삽입한 위치의 iterator 반환
     ```
 
@@ -64,9 +64,9 @@ last_modified_at: 2020-07-24T04:00:00-05:00
     v.clear();
     v.pop_back();
     v.erase(iterator);
-    v.erase(first_iterator, last_iterator);
+    v.erase(begin_iterator, end_iterator);
     // iterator 위치에 해당 원소 및 범위 삭제
-    // last_iterator의 값은 삭제되지 않는다.
+    // end_iterator의 값은 삭제되지 않는다.
     ```
 
     ```c++
@@ -138,9 +138,9 @@ last_modified_at: 2020-07-24T04:00:00-05:00
     dq.push_front(value);
     dq.push_back(value);
     dq.insert(iterator, size, value);
-    dq.insert(iterator, first_iterator, last_iterator;
+    dq.insert(iterator, begin_iterator, end_iterator;
     // iterator 위치에 해당 원소 및 범위 삽입
-    // last_iterator의 값은 삽입되지 않는다.
+    // end_iterator의 값은 삽입되지 않는다.
     // 앞 뒤 중 원소가 적은 곳에 삽입
     // 삽입한 위치의 iterator 반환
     ```
@@ -152,9 +152,9 @@ last_modified_at: 2020-07-24T04:00:00-05:00
     dq.pop_front();
     dq.pop_back();
     dq.erase(iterator);
-    dq.erase(first_iterator, last_iterator);
+    dq.erase(begin_iterator, end_iterator);
     // iterator 위치에 해당 원소 및 범위 삭제
-    // last_iterator의 값은 삭제되지 않는다.
+    // end_iterator의 값은 삭제되지 않는다.
     ```
 
     ```c++
