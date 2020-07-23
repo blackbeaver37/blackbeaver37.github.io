@@ -1,5 +1,7 @@
 ---
+
 title: C++/JAVA/Python 빠른 입출력
+excerpt: ""
 date: July 23, 2020
 categories:
   - Tips
@@ -7,6 +9,7 @@ tags:
   - C++
   - JAVA
   - Python
+last_modified_at: 2020-07-23T08:00:00-05:00
 
 ---
 
