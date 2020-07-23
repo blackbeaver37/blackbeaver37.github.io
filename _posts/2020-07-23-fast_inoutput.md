@@ -1,14 +1,14 @@
 ---
-title:  "C++/JAVA/Python 빠른 입출력"
-excerpt: ""
-date: 2020-07-23 02:00:00 -0400
+title: C++/JAVA/Python 빠른 입출력
+date: '2020-07-23 02:00:00 -0400'
 categories:
   - Tips
 tags:
   - C++
   - JAVA
   - Python
-last_modified_at: 2020-07-23T03:17:00-05:00
+last_modified_at: {}
+published: true
 ---
 
 ---
