@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" #태마 색 설정 "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "UnsNote" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
