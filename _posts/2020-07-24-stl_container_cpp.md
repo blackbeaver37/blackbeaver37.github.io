@@ -1,7 +1,7 @@
 ---
 
 title: C++ STL 1. Container
-excerpt: ""
+excerpt: "vector, deque, list, stack, quere, priority_queue, set, multiset, map, multimap, bitset"
 date: July 24, 2020
 categories:
   - Tips
@@ -349,7 +349,7 @@ last_modified_at: 2020-07-24T04:00:00-05:00
     + bitset
 
     ```c++
-    #include <map>
+    #include <set>
     using namespace std;
     ```
 
