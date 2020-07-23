@@ -1,6 +1,6 @@
 ---
 
-title: C++ STL
+title: C++ STL 1. Container
 excerpt: ""
 date: July 24, 2020
 categories:
@@ -356,5 +356,3 @@ last_modified_at: 2020-07-24T04:00:00-05:00
     ---
 
 ---
-
-## **STL 반복자 (STL Iterator)**
