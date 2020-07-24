@@ -11,11 +11,12 @@ last_modified_at: 2020-07-24T15:00:00-05:00
 
 ---
 
-> ## **STL 컨테이너 (STL Container) (1)**
+STL 컨테이너 (STL Container) (1)
+---
 
 >> **순차 컨테이너 (Sequence Container)**
 
-1. vector  
++ vector  
   `맨 뒤 & 중간 삽입 삭제 가능`  
   `배열 기반`  
   `많은 삽입 삭제 필요 시 비효율적`
@@ -101,7 +102,7 @@ last_modified_at: 2020-07-24T15:00:00-05:00
 
 ---
 
-2. deque  
++ deque  
 `맨 앞 & 맨 뒤 & 중간 삽입 삭제 가능`  
 `배열 기반`  
 `앞 뒤 삽입 삭제 시 vector보다 효율적, 그 외는 vector보다 비효율적`  
@@ -186,7 +187,7 @@ last_modified_at: 2020-07-24T15:00:00-05:00
 
 ---
 
-3. list  
++ list  
 `맨 앞 & 맨 뒤 & 중간 삽입 삭제 가능`  
 `노드 기반`  
 `이중 연결 리스트`  
