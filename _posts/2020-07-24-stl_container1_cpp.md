@@ -14,7 +14,7 @@ last_modified_at: 2020-07-24T15:00:00-05:00
 STL 컨테이너 (STL Container) (1)
 ---
 
->> **순차 컨테이너 (Sequence Container)**
+> **순차 컨테이너 (Sequence Container)**
 
 + vector  
   `맨 뒤 & 중간 삽입 삭제 가능`  
