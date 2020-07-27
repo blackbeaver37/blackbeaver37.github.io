@@ -23,8 +23,8 @@ last_modified_at: 2020-07-23T08:00:00-05:00
 using namespace std;
 
 int main() {
-  cin.tie(NULL)
-  ios::sync_with_stdio(false)
+  cin.tie(NULL);
+  ios::sync_with_stdio(false);
   
   return 0;
 }
